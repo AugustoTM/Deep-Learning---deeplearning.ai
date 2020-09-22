@@ -5,5 +5,6 @@ This repository has the codes used in the **Deep-Learning** specialization from 
 It is divided into 5 courses:
 
 1. **Neural Networks and Deep Learning (4 Weeks)**
+2. **Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization (3 Weeks)**
 
 In each week, a **Python Notebook** was used to implement the weekly activity.
